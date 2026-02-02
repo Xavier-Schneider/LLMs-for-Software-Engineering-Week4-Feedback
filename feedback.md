@@ -1,6 +1,6 @@
 # Week 4 Feedback: Requirements
 
-**Authors:** [Student Name 1, Student Name 2, Student Name 3]  
+**Authors:** Xavier Schneider, Greg French, Max Ku
 
 ## 1. Counterexample Problems
 
