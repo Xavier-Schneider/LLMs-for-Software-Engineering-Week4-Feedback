@@ -135,7 +135,7 @@ You can reuse the files from B_1 for this task.
 
 ### 2. Guidelines that didn't work for Problem B_1
 
-#### Guideline 1: [Title]
+#### Guideline 1: [Capitalize role identifiers]  
 **Prompt and Context:**  
 Prompt:  
 Can you parse out this transcript into a JSON file, separating out what the journalist says from what the user says
