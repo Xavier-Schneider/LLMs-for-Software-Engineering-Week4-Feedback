@@ -1,7 +1,5 @@
-# Week 4 Feedback: [Requirements]
 # Week 4 Feedback: Requirements
-
-**Authors:** [Student Name 1, Student Name 2, Xavier Schneider]  
+ 
 **Authors:** Xavier Schneider, Greg French, Max Ku
 
 ## 1. Counterexample Problems
@@ -12,7 +10,7 @@
 Given an objective and a set of requirements designed to achieve the objective, identify or correct missing and incomplete requirements.
 
 **Starter Code:**  
-[Starter Code](https://github.com/Xavier-Schneider/LLMs-for-Software-Engineering-Week4-Feedback)
+[Starter Code](https://github.com/Xavier-Schneider/LLMs-for-Software-Engineering-Week4-Feedback/blob/main/ProblemA1.md)
 
 ---
 
@@ -31,7 +29,7 @@ failure modes.
 
 **Prompt and Context:**
 
-Context: (https://github.com/Xavier-Schneider/LLMs-for-Software-Engineering-Week4-Feedback/blob/main/Problem1.md)
+Context: (https://github.com/Xavier-Schneider/LLMs-for-Software-Engineering-Week4-Feedback/blob/main/ProblemA1.md)
 
 Prompt: Assume a data breach occurred. What privacy/security requirement was missing?
 
@@ -59,7 +57,7 @@ As we can see, many of these requirements are duplicates from ProblemA1.md. Encr
 #### Guideline 1: [Try asking for an assement of missing/incomplete requirements]
 **Prompt and Context:**
 
-Context: (https://github.com/Xavier-Schneider/LLMs-for-Software-Engineering-Week4-Feedback/blob/main/Problem1.md)
+Context: (https://github.com/Xavier-Schneider/LLMs-for-Software-Engineering-Week4-Feedback/blob/main/ProblemA1.md)
 
 User: Assess each security requirement. Are any of them incomplete/missing?
 
