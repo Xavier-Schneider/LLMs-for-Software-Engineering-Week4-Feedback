@@ -292,7 +292,7 @@ You can find all related files here: https://github.com/Xavier-Schneider/LLMs-fo
 
 ### 2. Guidelines that didn't work for Problem C_1
 
-### Guideline 3:  Provide few-shot examples 
+#### Guideline 3:  Provide few-shot examples 
 
 **Guideline Definition**
 Description: 
