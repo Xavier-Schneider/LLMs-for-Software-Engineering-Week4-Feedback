@@ -14,7 +14,7 @@ Given a project and a set of requirements designed to achieve the project, ident
 
 ---
 
-### 2. Guidelines that didn't work for Problem B_1
+### 2. Guidelines that didn't work for Problem A_1
 
 #### Guideline 1: [Try asking for concrete cases when things go wrong (Pre-Mortem Prompting)]
 
@@ -52,7 +52,7 @@ As we can see, many of these requirements are duplicates from ProblemA1.md. Encr
 
 ---
 
-### 3. New and Updated Guidelines that worked for Problem B_1
+### 3. New and Updated Guidelines that worked for Problem A_1
 
 #### Guideline 1: [Try asking for an assement of missing/incomplete requirements]
 **Prompt and Context:**
