@@ -7,10 +7,10 @@
 ### Problem A_1: [Identifying Missing Requirements]
 
 **Task Description:**  
-Given an objective and a set of requirements designed to achieve the objective, identify or correct missing and incomplete requirements.
+Given a project and a set of requirements designed to achieve the project, identify or correct missing and incomplete requirements.
 
-**Starter Code:**  
-[Starter Code](https://github.com/Xavier-Schneider/LLMs-for-Software-Engineering-Week4-Feedback/blob/main/ProblemA1.md)
+**Starter Code:**
+[Requirements file](https://github.com/Xavier-Schneider/LLMs-for-Software-Engineering-Week4-Feedback/blob/main/ProblemA1.md)
 
 ---
 
