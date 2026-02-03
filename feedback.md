@@ -126,7 +126,7 @@ You can reuse the files from B_1 for this task.
 ### Problem B_3: Summarize the transcript
 
 **Task Description:**  
-Summarize the key points from the stakeholder interview. Include their main concerns, requirements, and any conflicting interests.
+Summarize the key points from the transcript with an emphasis on the requirements the user needs from a modern LLM system.
 
 **Starter Code:**  
 You can reuse the files from B_1 for this task.
@@ -167,6 +167,10 @@ Copilot created a file called transcript.json with the following:
 }  
 
 ...
+
+**Analysis:**
+
+As we can see, the LLM fails at a tricky edge case in which the user states that they themselves are a journalist and what they work on as a journalist. Any human reading this can infer what the user is saying and understand that the text is coming from a human, but the LLM picks this up as something the journalist is saying instead.
 
 ---
 
@@ -238,5 +242,9 @@ Copilot created a file called transcript_parsed.json with the following:
 ]
 
 ...
+
+**Analysis:**
+
+As we can see, once the LLM is given additional instructions / examples of an edge case to look out for, it performs the task flawlessly. In this case, the prompter would need to know of these potential edge cases in advance and let the LLM know about them. If they don't, it could result in a catastrophic parsing mistake by the LLM.
 
 ---
