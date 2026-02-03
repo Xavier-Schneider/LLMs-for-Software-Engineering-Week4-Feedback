@@ -100,13 +100,36 @@ As we can see, rather than duplicating requirements, Copilot has made suggestion
 
 ---
 
-### Problem B_1: [Title]
+### Problem B_1: Transcribing Dirty Transcript Data
 
 **Task Description:**  
-Describe the task clearly and precisely.
+Sometimes in life, you get unlucky and have to deal with poorly formatted transcript data. Your goal in this task is to get an LLM to convert a poorly formatted transcript in which a journalist talks to a user about LLMs into a clean, well-formatted JSON representation that cleanly separates what the journalist asks from what the user says in response.
+
+Credit:
+ChatGPT 5.2 generated the original clean transcript. We altered it to make the formatting significantly worse.
 
 **Starter Code:**  
-// Include all necessary starter code here or in a repo and share the link here.
+You can find all related files here: https://github.com/Xavier-Schneider/LLMs-for-Software-Engineering-Week4-Feedback
+
+---
+
+### Problem B_2: Clean up the transcript
+
+**Task Description:**  
+Your next task is to clean up the transcript. Prompt the LLM to convert the text in the json file from upper case back to sentence-case (normal text). Also, ensure that the LLM outputs the text line by line in the correct order of the transcript. Save this to a new markdown file.
+
+**Starter Code:**  
+You can reuse the files from B_1 for this task.
+
+---
+
+### Problem B_3: Summarize in 5 words or fewer
+
+**Task Description:**  
+Your final task for this problem is to have the LLM summarize the user's answers (only the user's answers) in 5 words or fewer. Make sure the LLM doesn't modify the cleaned-up transcript; instead, create a new markdown file to store the results.
+
+**Starter Code:**  
+You can reuse the files from B_1 for this task.
 
 ---
 
