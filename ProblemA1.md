@@ -104,7 +104,6 @@
 - Encryption for data at rest and in transit
 - Private and public event visibility controls
 - Audit logs for shared calendar changes
-- Compliance with applicable data protection regulations (e.g., GDPR, CCPA)
 
 ---
 
