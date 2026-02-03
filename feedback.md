@@ -273,7 +273,7 @@ Copilot created a file called transcript_parsed.json with the following:
 
 As we can see, once the LLM is given additional instructions / examples of an edge case to look out for, it performs the task flawlessly. In this case, the prompter would need to know of these potential edge cases in advance and let the LLM know about them. If they don't, it could result in a catastrophic parsing mistake by the LLM.
 
-*Note that after the transcript was cleaned, Copilot performed adequately on subsequent tasks (including requirement generation)
+*Note that after the transcript was cleaned, Copilot performed adequately on B3 (requirement generation)
 
 ---
 
