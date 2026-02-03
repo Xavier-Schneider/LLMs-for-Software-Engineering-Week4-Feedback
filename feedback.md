@@ -441,6 +441,3 @@ Business KPIs: Track conversion rate, average order value, cart abandonment rate
 
 **Analysis:**
 While few-shot examples improve adherence to a specified format, we observe that they can overly constrain the model in open-ended requirements elicitation tasks. In our experiment, providing a strict few-shot template led Copilot to generate shallow, repetitive requirements focused mainly on basic functionality. In contrast, an open-ended prompt without few-shot examples produced more diverse and thoughtful requirements, such as user journey tests. This demonstrates that few-shot prompting does not reliably improve performance, but instead trades exploratory quality for structural conformity. Credit: ChatGPT 5.2 assisted in the writing of this analysis.
-
-
-
