@@ -123,10 +123,10 @@ You can reuse the files from B_1 for this task.
 
 ---
 
-### Problem B_3: Summarize in 5 words or fewer
+### Problem B_3: Summarize the transcript
 
 **Task Description:**  
-Your final task for this problem is to have the LLM summarize the user's answers (only the user's answers) in 5 words or fewer. Make sure the LLM doesn't modify the cleaned-up transcript; instead, create a new markdown file to store the results.
+Summarize the key points from the stakeholder interview. Include their main concerns, requirements, and any conflicting interests.
 
 **Starter Code:**  
 You can reuse the files from B_1 for this task.
