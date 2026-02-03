@@ -288,7 +288,9 @@ Collaborate with copilot to generate a set of requirements for an online store.
 **Starter Code:**  
 You can find all related files here: https://github.com/Xavier-Schneider/LLMs-for-Software-Engineering-Week4-Feedback
 
-### 2. Guidelines that didn't work for Problem A_1
+---
+
+### 2. Guidelines that didn't work for Problem C_1
 
 # Guideline 3:  Provide few-shot examples 
 
